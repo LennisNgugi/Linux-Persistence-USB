@@ -1,7 +1,4 @@
 #!/bin/bash 
-#Format USB as FAT32 
-#Select "Live Persistence"
-#Open terminal
 echo "Installing Persistence";
 sudo su;
 fdisk -l;
