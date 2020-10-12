@@ -4,6 +4,12 @@
 
 # How to install 
 
+Format USB as FAT32 
+
+Select "Live Persistence"
+
+Open terminal
+
 Run "sudo bash Linux_Persistence.sh" first 
 
 Run "bash Linux_Persistence_After_Sudo.sh" second
